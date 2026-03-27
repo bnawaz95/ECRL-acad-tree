@@ -43,6 +43,6 @@ graph LR
     D0 ---> H
     D0 ---> I
 
-classDef noBorder stroke:none,stroke-width:0px,fill:#D55E00;
+classDef noBorder stroke:none,stroke-width:0px,fill:#0072B2;
 class A,B,C,D0,D1,D2,D3,D4,D5,D6,D6,D7,D8,D9,E,F,G,H,I, noBorder
 ```
