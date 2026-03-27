@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     A["<b>Antoni Kazimierz Oppenheim</b><br/>(1915–2008)<br/>Warsaw · London · Stanford · Berkeley"]
 
@@ -20,3 +21,4 @@ graph TD
     D --> F
     D --> G
     D --> H
+```
