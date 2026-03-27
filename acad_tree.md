@@ -44,5 +44,5 @@ graph LR
     D0 ---> I
 
 classDef noBorder stroke:none,stroke-width:0px;
-class A,B,C,D0,D1,D2,D3,D4,D6,D6,D7,D8,D9,E,F,G,H,I, noBorder
+class A,B,C,D0,D1,D2,D3,D4,D5,D6,D6,D7,D8,D9,E,F,G,H,I, noBorder
 ```
