@@ -9,7 +9,7 @@ graph LR
     D1["<b>Ricardo Cabra</b><br/> Berkeley · Collins Aerospace"]
     D2["<b>Parag Mehresh</b><br/> Berkeley · Caterpillar"]
     D3["<b>Vi Rapp</b><br/> Berkeley · LBNL"]
-    D4["<b>Greg ???</b><br/> Berkeley · CSM? · NREL?"]
+    D4["<b>Gregory Bogin</b><br/> Berkeley · Colorado School of Mines"]
     D0["<b>J. Hunter Mack</b><br/> Hendrix · Wash. U. St Louis · Berkeley · UMass Lowell"]
     D5["<b>Brad Edgar </b><br/> Berkeley · Red Fox Resources"]
     D6["<b>Robert Chung</b><br/> Berkeley · LBNL"]
