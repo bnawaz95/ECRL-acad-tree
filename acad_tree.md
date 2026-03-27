@@ -6,7 +6,7 @@ graph TD
 
     C["<b>Robert W. Dibble</b><br/>Berkeley (UG) · Wisconsin (PhD) · LLNL · Berkeley"]
 
-    D1["<b>Ricardo Cabra</b><br/> Berkeley · Collins"]
+    D1["<b>Ricardo Cabra</b><br/> Berkeley · Collins Aerospace"]
     D2["<b>Parag Mehresh</b><br/> Berkeley · Caterpillar"]
     D3["<b>Vi Rapp</b><br/> Berkeley · LBNL"]
     D4["<b>Greg ???</b><br/> Berkeley · CSM? · NREL?"]
@@ -27,11 +27,11 @@ graph TD
     B ---> C
 
     C ---> D0
-    C --> D1
+    C ---> D1
     C ---> D2
     C ---> D3
     C ---> D4
-    C --> D5
+    C ---> D5
     C ---> D6
     C ---> D7
     C ---> D8
