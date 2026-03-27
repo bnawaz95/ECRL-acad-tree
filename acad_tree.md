@@ -14,7 +14,7 @@ graph LR
     D5["<b>Brad Edgar </b><br/> Berkeley · Red Fox Resources"]
     D6["<b>Robert Chung</b><br/> Berkeley · LBNL"]
     D7["<b>Samveg Saxena</b><br/> Berkeley · LBNL · Green Light Labs"]
-    D8["<b>Timothy Sennott</b><br/> Berkeley · "]
+    D8["<b>Timothy Sennott</b><br/> Berkeley"]
     D9["<b>Miguel Aznar</b><br/> Berkeley · Noble Thermodynamics"]
 
     E["<b>Martia Shahsavan</b>"]
