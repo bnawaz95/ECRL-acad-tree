@@ -5,4 +5,5 @@ Academic family tree centered around Prof. Mack. To view the tree as a graph, cl
 The tree has been created as a Mermaid chart in the file "acad_tree.md", which should render automatically on Github, and software like Obsidian and VS Code that render .md markdown files.
 
 acad_tree.md - The tree is displayed Top-down
+
 acad_tree_LR.md - Same tree, but displayed LR
