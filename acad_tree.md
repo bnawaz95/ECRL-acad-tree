@@ -23,23 +23,23 @@ flowchart LR
     H["<b>Md Nayer Nasim</b>"]
     I["<b>Behlol Nawaz</b>"]
 
-    A -> B
-    B -> C
+    A ---> B
+    B ---> C
 
-    C -> D0
-    C -> D1
-    C -> D2
-    C -> D3
-    C -> D4
-    C -> D5
-    C -> D6
-    C -> D7
-    C -> D8
-    C -> D9
+    C ---> D0
+    C --> D1
+    C ---> D2
+    C ---> D3
+    C ---> D4
+    C --> D5
+    C ---> D6
+    C ---> D7
+    C ---> D8
+    C ---> D9
 
-    D0 -> E
-    D0 -> F
-    D0 -> G
-    D0 -> H
-    D0 -> I
+    D0 ---> E
+    D0 ---> F
+    D0 ---> G
+    D0 ---> H
+    D0 ---> I
 ```
