@@ -4,7 +4,7 @@ graph LR
 
     B["<b>Jewell Ray Bowen</b><br/>(1934–2019)<br/>MIT · Berkeley · Wisconsin-Madison · Washington"]
 
-    C["<b>Robert W. Dibble</b><br/>Berkeley (UG) · Wisconsin (PhD) · LLNL · Berkeley"]
+    C["<b>Robert W. Dibble</b><br/>Berkeley · Wisconsin · LLNL · Berkeley"]
 
     D1["<b>Ricardo Cabra</b><br/> Berkeley · Collins Aerospace"]
     D2["<b>Parag Mehresh</b><br/> Berkeley · Caterpillar"]
