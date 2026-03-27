@@ -17,11 +17,11 @@ graph TD
     D8["<b>Timothy Sennott</b><br/> Berkeley"]
     D9["<b>Miguel Aznar</b><br/> Berkeley · Noble Thermodynamics"]
 
-    E["<b>Martia Shahsavan</b>"]
-    F["<b>Mohammad Rasool Morovatiyan</b>"]
-    G["<b>Travis Kessler</b>"]
-    H["<b>Md Nayer Nasim</b>"]
-    I["<b>Behlol Nawaz</b>"]
+    E["<b>Martia Shahsavan</b><br/> UMass Lowell"]
+    F["<b>Mohammad Rasool Morovatiyan</b><br/> UMass Lowell"]
+    G["<b>Travis Kessler</b><br/> UMass Lowell"]
+    H["<b>Md Nayer Nasim</b><br/> UMass Lowell"]
+    I["<b>Behlol Nawaz</b><br/> UMass Lowell"]
 
     A ---> B
     B ---> C
