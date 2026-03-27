@@ -6,12 +6,12 @@ graph TD
 
     C["<b>Robert W. Dibble</b><br/>Berkeley (UG) · Wisconsin (PhD) · LLNL · Berkeley"]
 
-    D1["<b>Ricardo Cabra</b><br/> Berkeley · Collins Aerospace"]
+    D1["<b>Ricardo Cabra</b><br/> Berkeley · Collins"]
     D2["<b>Parag Mehresh</b><br/> Berkeley · Caterpillar"]
     D3["<b>Vi Rapp</b><br/> Berkeley · LBNL"]
     D4["<b>Greg ???</b><br/> Berkeley · CSM? · NREL?"]
     D0["<b>J. Hunter Mack</b><br/> Hendrix · Wash. U. St Louis · Berkeley · UMass Lowell"]
-    D5["<b>Brad Edgar </b><br/> Berkeley · Red Fox Resources · 44 Energy"]
+    D5["<b>Brad Edgar </b><br/> Berkeley · Red Fox Resources"]
     D6["<b>Robert Chung</b><br/> Berkeley · LBNL"]
     D7["<b>Samveg Saxena</b><br/> Berkeley · LBNL · Green Light Labs"]
     D8["<b>Timothy Sennott</b><br/> Berkeley · "]
