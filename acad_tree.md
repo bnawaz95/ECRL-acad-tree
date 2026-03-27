@@ -1,5 +1,4 @@
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '16px', 'primaryTextColor': '#fff', 'fontFamily': 'arial'}}}%%
 graph LR
     A["<b>Antoni Kazimierz Oppenheim</b><br/>(1915–2008)<br/>Warsaw · London · Stanford · Berkeley"]
 
