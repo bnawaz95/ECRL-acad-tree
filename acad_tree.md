@@ -38,7 +38,7 @@ flowchart TD
     C ---> D8
     C ---> D9
 
-    subgraph Mack
+    subgraph Mack [" "]
     D0 ---> E1
     D0 ---> E2
     D0 ---> E3
@@ -46,6 +46,10 @@ flowchart TD
     D0 ---> E5
     end
 
-classDef noBorder stroke:none,stroke-width:0px,fill:#None,font-size:24px;
+classDef noBorder stroke:none,stroke-width:0px,fill:none,font-size:24px;
 class A,B,C,D0,D1,D2,D3,D4,D5,D6,D6,D7,D8,D9,E1,E2,E3,E4,E5, noBorder
+
+%% Style the subgraph to be invisible
+classDef invisible fill:none,stroke:none,stroke-width:0;
+class Mack invisible;
 ```
