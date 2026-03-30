@@ -1,5 +1,5 @@
 ```mermaid
-%%{init: {"flowchart": {"curve":"basis"}}}%%
+
 flowchart TD
     A["<b>Antoni Kazimierz Oppenheim</b><br/>(1915–2008)<br/>Warsaw · London · Stanford · UC Berkeley"]
 
@@ -7,7 +7,7 @@ flowchart TD
 
     C["<b>Robert W. Dibble</b><br/> Wisconsin · LLNL · UC Berkeley"]
 
-    D0["<b>J. Hunter Mack</b><br/> Hendrix · Wash. U. St Louis · UC Berkeley · UMass Lowell"]
+    D0["<b>J. Hunter Mack</b><br/>Hendrix · Wash. U. St Louis · UC Berkeley · UMass Lowell"]
     D1["<b>Ricardo Cabra</b><br/> UC Berkeley · Collins Aerospace"]
     D2["<b>Parag Mehresh</b><br/> UC Berkeley · Caterpillar"]
     D3["<b>Vi Rapp</b><br/> UC Berkeley · LBNL"]
