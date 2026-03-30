@@ -1,5 +1,6 @@
 ```mermaid
-graph LR
+
+flowchart LR
     A["<b>Antoni Kazimierz Oppenheim</b><br/>(1915–2008)<br/>Warsaw · London · Stanford · UC Berkeley"]
 
     B["<b>Jewell Ray Bowen</b><br/>(1934–2019)<br/>MIT · UC Berkeley · Wisconsin-Madison · Washington"]
