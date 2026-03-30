@@ -1,21 +1,21 @@
 ```mermaid
 graph LR
-    A["<b>Antoni Kazimierz Oppenheim</b><br/>(1915–2008)<br/>Warsaw · London · Stanford · Berkeley"]
+    A["<b>Antoni Kazimierz Oppenheim</b><br/>(1915–2008)<br/>Warsaw · London · Stanford · UC Berkeley"]
 
-    B["<b>Jewell Ray Bowen</b><br/>(1934–2019)<br/>MIT · Berkeley · Wisconsin-Madison · Washington"]
+    B["<b>Jewell Ray Bowen</b><br/>(1934–2019)<br/>MIT · UC Berkeley · Wisconsin-Madison · Washington"]
 
-    C["<b>Robert W. Dibble</b><br/>Berkeley · Wisconsin · LLNL · Berkeley"]
+    C["<b>Robert W. Dibble</b><br/>Wisconsin · LLNL · UC Berkeley"]
 
-    D1["<b>Ricardo Cabra</b><br/> Berkeley · Collins Aerospace"]
-    D2["<b>Parag Mehresh</b><br/> Berkeley · Caterpillar"]
-    D3["<b>Vi Rapp</b><br/> Berkeley · LBNL"]
-    D4["<b>Gregory Bogin</b><br/> Berkeley · Colorado School of Mines"]
-    D0["<b>J. Hunter Mack</b><br/> Hendrix · Wash. U. St Louis · Berkeley · UMass Lowell"]
-    D5["<b>Brad Edgar </b><br/> Berkeley · Red Fox Resources"]
-    D6["<b>Robert Chung</b><br/> Berkeley · LBNL"]
-    D7["<b>Samveg Saxena</b><br/> Berkeley · LBNL · Green Light Labs"]
-    D8["<b>Timothy Sennott</b><br/> Berkeley"]
-    D9["<b>Miguel Aznar</b><br/> Berkeley · Noble Thermodynamics"]
+    D1["<b>Ricardo Cabra</b><br/> UC Berkeley · Collins Aerospace"]
+    D2["<b>Parag Mehresh</b><br/> UC Berkeley · Caterpillar"]
+    D3["<b>Vi Rapp</b><br/> UC Berkeley · LBNL"]
+    D4["<b>Gregory Bogin</b><br/> UC Berkeley · Colorado School of Mines"]
+    D0["<b>J. Hunter Mack</b><br/> Hendrix · Wash. U. St Louis · UC Berkeley · UMass Lowell"]
+    D5["<b>Brad Edgar </b><br/> UC Berkeley · Red Fox Resources"]
+    D6["<b>Robert Chung</b><br/> UC Berkeley · LBNL"]
+    D7["<b>Samveg Saxena</b><br/> UC Berkeley · LBNL · Green Light Labs"]
+    D8["<b>Timothy Sennott</b><br/> UC Berkeley"]
+    D9["<b>Miguel Aznar</b><br/> UC Berkeley · Noble Thermodynamics"]
 
     E["<b>Martia Shahsavan</b><br/> UMass Lowell"]
     F["<b>Mohammad Rasool Morovatiyan</b><br/> UMass Lowell"]
