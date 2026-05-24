@@ -18,12 +18,11 @@ flowchart TD
     D8["<b>Timothy Sennott</b><br/> UC Berkeley"]
     D9["<b>Miguel Aznar</b><br/> UC Berkeley · Noble Thermodynamics"]
 
-    E1["<b>Martia Shahsavan</b><br/> UMass Lowell"]
+    E1["<b>Martia Shahsavan</b><br/> UMass Lowell · AMD"]
     E2["<b>Mohammad Rasool Morovatiyan</b><br/> UMass Lowell"]
-    E3["<b>Travis Kessler</b><br/> UMass Lowell"]
-    E4["<b>Md Nayer Nasim</b><br/> UMass Lowell"]
+    E3["<b>Travis Kessler</b><br/> UMass Lowell · AIMdyn · Cognitive Chemistry Labs"]
+    E4["<b>Md Nayer Nasim</b><br/> UMass Lowell · FM"]
     E5["<b>Behlol Nawaz</b><br/> UMass Lowell"]
-
     A ---> B
     B ---> C
 
